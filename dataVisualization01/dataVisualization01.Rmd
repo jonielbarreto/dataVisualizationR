@@ -5,6 +5,7 @@ author: "Create by Joniel B Barreto"
 date: "2022-08-16"
 output:
   html_document:
+    keep_md: true
     df_print: paged
   prettydoc::html_pretty:
     theme: tactile
